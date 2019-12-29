@@ -1,5 +1,5 @@
 # Doogle
-.sgm text file search using:
+.sgm file content search engine (with UI) using:
 
   -search engine software library Apache Lucene (version 6.2.1)
   
