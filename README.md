@@ -5,4 +5,4 @@
   
   -html parser jsoup
 
-  -Java Porter Streamer algorithm
+  -Java Porter Stemmer algorithm
